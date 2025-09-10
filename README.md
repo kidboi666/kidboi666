@@ -13,10 +13,11 @@
 
 ## 📱 주요 프로젝트
 
-### 🎯 [무드로그 - 감정 패턴 분석 앱]
-## [무드로그 - 리액트 네이티브 MVP 버전](https://github.com/kidboi666/moodlog_react_native)
-## [무드로그 - 플러터 플레이 스토어 출시 버전](https://github.com/kidboi666/moodlog_flutter)
-## [무드로그 - 안드로이드 마이그레이션 진행중](https://github.com/log-mind-365/moodlog_android)
+### 🎯 [무드로그 - 감정 패턴 분석 앱 - 플러터 출시 버전](https://github.com/kidboi666/moodlog_flutter)
+[React Native MVP 버전](https://github.com/kidboi666/moodlog_react_native)
+
+[Android Compose 마이그레이션 진행중](https://github.com/log-mind-365/moodlog_android)
+
 **React Native → Flutter (마이그레이션 완료, 출시 완료) → Android Compose (마이그레이션 진행중) **
 
 - **기술 스택**: Android Compose, Kotlin, Gemini AI
