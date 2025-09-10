@@ -16,7 +16,7 @@
 ### 🎯 [무드로그 - 감정 패턴 분석 앱]
 ## [무드로그 - 리액트 네이티브 MVP 버전](https://github.com/kidboi666/moodlog_react_native)
 ## [무드로그 - 플러터 플레이 스토어 출시 버전](https://github.com/kidboi666/moodlog_flutter)
-## [무드로그 - 안드로이드 마이그레이션 진행중](https://github.com/log_mind_365/moodlog_android)
+## [무드로그 - 안드로이드 마이그레이션 진행중](https://github.com/log-mind-365/moodlog_android)
 **React Native → Flutter (마이그레이션 완료, 출시 완료) → Android Compose (마이그레이션 진행중) **
 
 - **기술 스택**: Android Compose, Kotlin, Gemini AI
@@ -24,7 +24,7 @@
 - **성과**: 구글 플레이 스토어 출시, 3개 플랫폼 마이그레이션 경험
 - **배운 점**: 플랫폼별 특성 이해, 최적 아키텍처 설계
 
-### ✅ [태스크로그 - 네이티브 할일 관리 앱](https://github.com/logmind/tasklog)
+### ✅ [태스크로그 - 네이티브 할일 관리 앱](https://github.com/log-mind-365/tasklog_android)
 **현재 개발 중 - MVVM + Clean Architecture**
 
 - **기술 스택**: Android Compose, Kotlin, Spring Boot
