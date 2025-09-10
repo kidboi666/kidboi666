@@ -13,7 +13,7 @@
 
 ## 📱 주요 프로젝트
 
-### 🎯 [무드로그 - 감정 패턴 분석 앱](프로젝트링크)
+### 🎯 [무드로그 - 감정 패턴 분석 앱](https://github.com/kidboi666/moodlog_flutter)
 **React Native → Flutter → Android Compose 마이그레이션 완료**
 
 - **기술 스택**: Android Compose, Kotlin, Gemini AI
@@ -21,7 +21,7 @@
 - **성과**: 구글 플레이 스토어 출시, 3개 플랫폼 마이그레이션 경험
 - **배운 점**: 플랫폼별 특성 이해, 최적 아키텍처 설계
 
-### ✅ [태스크로그 - 네이티브 할일 관리 앱](프로젝트링크)
+### ✅ [태스크로그 - 네이티브 할일 관리 앱](https://github.com/kidboi666/tasklog)
 **현재 개발 중 - MVVM + Clean Architecture**
 
 - **기술 스택**: Android Compose, Kotlin, Spring Boot
@@ -29,7 +29,7 @@
 - **현재 상태**: 백엔드 API 구축 완료, 앱 UI/UX 개발 중
 - **학습 목표**: Clean Architecture 완전 체득, 백엔드 연동 최적화
 
-### 📝 [하루한줄 - 감정 기록 웹 플랫폼](프로젝트링크)
+### 📝 [하루한줄 - 감정 기록 웹 플랫폼](https://github.com/kidboi666/one_sentence)
 **웹 개발 포트폴리오 프로젝트**
 
 - **기술 스택**: Next.js, TypeScript, Supabase, TanStack Query
