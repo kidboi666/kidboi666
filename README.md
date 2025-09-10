@@ -13,19 +13,17 @@
 
 ## 📱 주요 프로젝트
 
-### 🎯 [무드로그 - 감정 패턴 분석 앱 - 플러터 출시 버전](https://github.com/kidboi666/moodlog_flutter)
-[React Native MVP 버전](https://github.com/kidboi666/moodlog_react_native)
-
-[Android Compose 마이그레이션 진행중](https://github.com/log-mind-365/moodlog_android)
-
-**React Native → Flutter (마이그레이션 완료, 출시 완료) → Android Compose (마이그레이션 진행중) **
+### 🎯 [무드로그 - 감정 패턴 분석 앱]
+#### [React Native MVP 버전 (2025.02 ~ 06) - 미출시](https://github.com/kidboi666/moodlog_react_native)
+### [Flutter 버전 (2025.06 ~ 08) - 플레이 스토어 출시](https://github.com/kidboi666/moodlog_flutter)
+#### [Android Compose 마이그레이션 진행중 (2025.08 ~ 진행중) - 미출시](https://github.com/log-mind-365/moodlog_android)
 
 - **기술 스택**: Android Compose, Kotlin, Gemini AI
 - **주요 기능**: 일일 감정 기록, AI 기반 패턴 분석, 개인화된 피드백
 - **성과**: 구글 플레이 스토어 출시, 3개 플랫폼 마이그레이션 경험
 - **배운 점**: 플랫폼별 특성 이해, 최적 아키텍처 설계
 
-### ✅ [태스크로그 - 네이티브 할일 관리 앱](https://github.com/log-mind-365/tasklog_android)
+### ✅ [태스크로그 - 네이티브 할일 관리 앱 (2025.09 ~ 진행중)](https://github.com/log-mind-365/tasklog_android)
 **현재 개발 중 - MVVM + Clean Architecture**
 
 - **기술 스택**: Android Compose, Kotlin, Spring Boot
@@ -33,7 +31,7 @@
 - **현재 상태**: 백엔드 API 구축 완료, 앱 UI/UX 개발 중
 - **학습 목표**: Clean Architecture 완전 체득, 백엔드 연동 최적화
 
-### 📝 [하루한줄 - 감정 기록 웹 플랫폼](https://github.com/kidboi666/one_sentence)
+### 📝 [하루한줄 - 감정 기록 웹 플랫폼 (2024.09 ~ 2025.01)](https://github.com/kidboi666/one_sentence)
 **웹 개발 포트폴리오 프로젝트**
 
 - **기술 스택**: Next.js, TypeScript, Supabase, TanStack Query
@@ -73,11 +71,6 @@
 - **RESTful API 설계**
 - **JWT 기반 인증**
 - **Coroutine 비동기 처리**
-
-## 📊 GitHub 통계
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kidboi666&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kidboi666&layout=compact&theme=radical)
 
 ## 🎯 개발 철학
 
