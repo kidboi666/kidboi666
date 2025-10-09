@@ -11,6 +11,7 @@
 
 #### [무드로그 React Native MVP 버전 (2025.02 ~ 06) - 미출시](https://github.com/kidboi666/moodlog_react_native)
 ### ✅ [무드로그 Flutter 버전 (2025.06 ~ 08) - iOS, Android 출시](https://github.com/kidboi666/moodlog_flutter)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.kidboi666.moodlog) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%EB%AC%B4%EB%93%9C%EB%A1%9C%EA%B7%B8/id6752590873?itscg=30200&itsct=apps_box_badge&mttnsubad=6752590873)
 
 #### [무드로그 Android Compose 마이그레이션 진행중 (2025.08 ~ 진행중) - 미출시](https://github.com/log-mind-365/moodlog_android)
 
