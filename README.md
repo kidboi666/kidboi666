@@ -11,7 +11,8 @@
 
 ### 🎯 [무드로그 - 감정 패턴 분석 앱]
 #### [React Native MVP 버전 (2025.02 ~ 06) - 미출시](https://github.com/kidboi666/moodlog_react_native)
-### [Flutter 버전 (2025.06 ~ 08) - 플레이 스토어 출시](https://github.com/kidboi666/moodlog_flutter)
+### [Flutter 버전 (2025.06 ~ 08) - iOS, Android 출시](https://github.com/kidboi666/moodlog_flutter)
+
 #### [Android Compose 마이그레이션 진행중 (2025.08 ~ 진행중) - 미출시](https://github.com/log-mind-365/moodlog_android)
 
 ### ✅ [태스크로그 - 할일 관리 앱 (2025.09 ~ 진행중)](https://github.com/log-mind-365/tasklog_flutter)
