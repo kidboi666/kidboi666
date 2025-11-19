@@ -1,6 +1,6 @@
 # 안녕하세요!
 
-> **빠른 습득력과 배려심으로 서비스를 만드는 플러터 개발자**
+> **빠른 습득력과 배려심으로 서비스를 만드는 프론트엔드 개발자**
 
 ## 🚀 현재 진행 중
 
@@ -17,20 +17,36 @@
 
 ## 🛠 기술 스택
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 주요 기술 스택
 
-### Web Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### Architecture & Patterns
-- **MVVM + Clean Architecture**
+
+
+
+
+Framework : ![Static Badge](https://img.shields.io/badge/nextjs-gray?logo=nextdotjs)
+![Static Badge](https://img.shields.io/badge/react-gray?logo=react)
+![Static Badge](https://img.shields.io/badge/typescript-gray?logo=typescript)
+![Static Badge](https://img.shields.io/badge/javascript-gray?logo=javascript)\
+State Management : ![Static Badge](https://img.shields.io/badge/reactquery-gray?logo=reactquery)
+![Static Badge](https://img.shields.io/badge/zustand-gray)\
+Architecture : ![Static Badge](https://img.shields.io/badge/fsd-gray)\
+Database & Backend : ![Static Badge](https://img.shields.io/badge/supabase-gray?logo=supabase)
+![Static Badge](https://img.shields.io/badge/firebase-gray?logo=firebase)
+![Static Badge](https://img.shields.io/badge/drizzle-gray?logo=drizzle)\
+Styling : ![Static Badge](https://img.shields.io/badge/tailwind-gray?logo=tailwindcss) 
+![Static Badge](https://img.shields.io/badge/shadcn%2Fui-gray?logo=shadcnui)
+
+### 보조 기술 스택
+Framework : ![Static Badge](https://img.shields.io/badge/flutter-gray?logo=flutter)
+![Static Badge](https://img.shields.io/badge/reactnative-gray?logo=react)
+![Static Badge](https://img.shields.io/badge/expo-gray?logo=expo)\
+Architecture : ![Static Badge](https://img.shields.io/badge/mvvm-gray)
+![Static Badge](https://img.shields.io/badge/clean%20architecture-gray)
+\
+Deployment : ![Static Badge](https://img.shields.io/badge/googleplay-gray?logo=googleplay)
+![Static Badge](https://img.shields.io/badge/appstore-gray?logo=appstore)
 
 ## 📫 연락처
 
