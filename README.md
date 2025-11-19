@@ -4,19 +4,13 @@
 
 ## 🚀 현재 진행 중
 
-- **무드로그**: Gemini AI 기반 감정 분석 및 무드 트래킹 앱 (고도화 및 리팩토링 진행중)
-- **태스크로그**: MVVM + Clean Architecture 기반 할일 관리 앱 개발
+- **원로그**: 일반적인 계층형 구조에서 FSD 아키텍처 구조로 개선 진행중
 
 ## 📱 주요 프로젝트
 
 #### [무드로그 React Native MVP 버전 (2025.02 ~ 06) - 미출시](https://github.com/kidboi666/moodlog_react_native)
 ### ✅ [무드로그 Flutter 버전 (2025.06 ~ 08) - iOS, Android 출시](https://github.com/kidboi666/moodlog_flutter)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.kidboi666.moodlog) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%EB%AC%B4%EB%93%9C%EB%A1%9C%EA%B7%B8/id6752590873?itscg=30200&itsct=apps_box_badge&mttnsubad=6752590873)
-
-#### [무드로그 Android Compose 마이그레이션 진행중 (2025.08 ~ 진행중) - 미출시](https://github.com/log-mind-365/moodlog_android)
-
-### [태스크로그 - 할일 관리 앱 (2025.09 ~ 진행중)](https://github.com/log-mind-365/tasklog_flutter)
-**현재 개발 중 - MVVM + Clean Architecture**
 
 ### 📝 [하루한줄 - 감정 기록 웹 플랫폼 (2024.09 ~ 2025.01)](https://github.com/kidboi666/one_sentence)
 **웹 개발 포트폴리오 프로젝트**
@@ -25,9 +19,6 @@
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ### Web Development
@@ -36,14 +27,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ### Backend & Database
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Architecture & Patterns
 - **MVVM + Clean Architecture**
-- **RESTful API 설계**
-- **JWT 기반 인증**
-- **Coroutine 비동기 처리**
 
 ## 📫 연락처
 
@@ -54,6 +41,5 @@
 ---
 
 > 💡 **함께 성장하고 싶은 팀을 찾고 있습니다!**  
-> 안드로이드 개발 포지션이나 협업 기회가 있으시면 언제든 연락 주세요.
 
 ⭐ **이 프로필이 도움이 되셨다면 Star를 눌러주세요!**
