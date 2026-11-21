@@ -50,7 +50,7 @@ Deployment : ![Static Badge](https://img.shields.io/badge/googleplay-gray?logo=g
 
 ## 📫 연락처
 
-- **Email**: log.mind.365@gmail.com
+- **Email**: sleepnowinthefire66@gmail.com
 - **Phone**: 010-9383-4485
 - **GitHub**: [@kidboi666](https://github.com/kidboi666)
 
